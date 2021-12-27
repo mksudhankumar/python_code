@@ -1,15 +1,17 @@
 This python code will help to encyrpt and decrypt password along with an option which will help generate randowm passwords as well. 
 #Password_encrypt_decrypt.py -e
-<output>
+- output
 	Password encryption/decryption tool
 	Encryption option invoked
 	Password encryption completed
 	
 #Password_encrypt_decrypt.py -d
+- output
 	Password encryption/decryption tool
 	Decryption option invoked
 	Your password - ['testing']
 #Password_encrypt_decrypt.py -h
+- output
 Password encryption/decryption tool
 usage: main.py [-h] [-e] [-d] [-r]
 
@@ -18,7 +20,9 @@ optional arguments:
   -e, --encrypt  [Encrypt password]
   -d, --decrypt  [Decrypt password]
   -r, --random   [Random password]
+  
 #Password_encrypt_decrypt.py -r
+- output
 	Password encryption/decryption tool
 	Random password generator
 
