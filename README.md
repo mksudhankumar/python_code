@@ -1,5 +1,6 @@
 This python code will help to encyrpt and decrypt password along with an option which will help generate randowm passwords as well. 
 #Password_encrypt_decrypt.py -e
+<output>
 	Password encryption/decryption tool
 	Encryption option invoked
 	Password encryption completed
