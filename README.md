@@ -27,7 +27,7 @@ optional arguments:
 	Random password generator
 
 	Enter Length of the password to be generated: MIN 12 & MAX 18 :14
-	w@0Xy*F{5_-f>j
+	- output :  w@0Xy*F{5_-f>j
 
 
 Note: you need to update "passdir_path" per your requirement and also create a file with password in the name "mypassword", 
